@@ -1,0 +1,5 @@
+*.txt
+~$*
+.claude/
+.xlsx
+.xlsm
